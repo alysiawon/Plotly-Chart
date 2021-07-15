@@ -50,3 +50,5 @@ function buildMetadata(sample) {
 
   });
 }
+
+console.log(data)
