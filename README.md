@@ -8,7 +8,7 @@ The purpose of this project is to disover and document bacteria that can syntehi
 
 The data preparation utilizes Javascript, Plotly, HTML and CSS to analyze and create a dynamic dashboard with a drop down menu. The dashbooard is generated on the <a href="index.html">index HTML webpage file</a>. 
 
-The webpage is created by altering the <a href="samples.json">data</a> to make an <a href="charts.js">application</a>. The webpage also utilizes <a href="static/css/style.css">CSS</a> to make it easy to read and more aesthetic.  
+The webpage is created by altering the <a href="Data/samples.json">data</a> to make an <a href="charts.js">application</a>. The webpage also utilizes <a href="static/css/style.css">CSS</a> to make it easy to read and more aesthetic.  
 
 ### Overview of Dashboard
 
